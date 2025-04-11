@@ -2,10 +2,10 @@
 I'm Andrea and I'm currently learning Web Development with [EPICODE](https://epicode.com/it/). After many years of doing a job that didn't satisfy me, I finally found the courage to learn something that I really enjoy and that will hopefully change my life forever.
 
 ## About me
-🏔️ I love nature and hiking;<br>
-🎮 When I have the time I love to play videogames;<br>
-🍳 Every now and then I like to cook delicious dishes;<br>
-📸 I'm passionate about photography **(_especially B&W_)**.<br>
+🏔️ I love nature and hiking<br>
+🎮 When I have the time I love to play videogames<br>
+🍳 Every now and then I like to cook delicious dishes<br>
+📸 I'm passionate about photography **(_especially B&W_)**<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andr_jpeg) 

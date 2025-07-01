@@ -8,7 +8,7 @@ I'm Andrea and I'm currently learning Web Development with [EPICODE](https://epi
 📸 I'm passionate about photography **(_especially B&W_)**<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andr_jpeg)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/andorea_facco)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-facco-2694a5346/)
 
 

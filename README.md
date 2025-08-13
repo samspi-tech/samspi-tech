@@ -2,7 +2,7 @@
 Thank you for visiting my Github! 
 My name is Andrea, and I began my journey 
 as a web developer by learning HTML, CSS, and JavaScript 
-through Udemy and FreeCodeCamp courses.
+through Udemy and FreeCodeCamp courses. </br>
 Discovering how much I enjoyed coding, I decided 
 to take my skills further and enrolled 
 in the Epicode Web Developer Part-Time Bootcamp, 

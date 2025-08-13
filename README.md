@@ -1,5 +1,23 @@
 # 👋 Hey there
-I'm Andrea and I'm currently learning Web Development with [EPICODE](https://epicode.com/it/). After many years of doing a job that didn't satisfy me, I finally found the courage to learn something that I really enjoy and that will hopefully change my life forever.
+Thank you for visiting my Github! 
+My name is Andrea, and I began my journey 
+as a web developer by learning HTML, CSS, and JavaScript 
+through Udemy and FreeCodeCamp courses.
+Discovering how much I enjoyed coding, I decided 
+to take my skills further and enrolled 
+in the Epicode Web Developer Part-Time Bootcamp, 
+all while working a full-time job.
+
+During the program, I worked on numerous projects 
+both independently and in collaboration with my classmates, 
+gaining hands-on experience and problem-solving skills.
+After eight intensive months of study and practice, 
+I successfully completed the program.
+
+Now, with a solid foundation in web development, 
+I’m continuing to expand my knowledge, 
+explore new technologies, 
+and refine my skills through self-directed learning.
 
 ## About me
 🏔️ I love nature and hiking<br>

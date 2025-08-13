@@ -1,5 +1,5 @@
 # 👋 Hey there
-I’m Andrea, a web developer passionate about creating clean, responsive websites. With a foundation in HTML, CSS, and JavaScript and hands-on experience from the [Epicode](https://epicode.com/en/) Web Developer Bootcamp, I’m always exploring new technologies to craft better digital experiences.
+Junior web developer passionate about creating clean, responsive websites. With a foundation in HTML, CSS, and JavaScript and hands-on experience from the [Epicode](https://epicode.com/en/) Web Developer Bootcamp, I’m always exploring new technologies to craft better digital experiences.
 
 ## About me
 🏔️ I love nature and hiking<br>

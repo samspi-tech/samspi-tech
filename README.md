@@ -19,9 +19,9 @@ Junior web developer passionate about creating clean, responsive websites. With 
 ![React](https://img.shields.io/badge/react-23272F.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 </br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Github](https://img.shields.io/badge/GitHub-222?logo=github&logoColor=white&style=for-the-badge)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samspi-tech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</br>
+</br>
+![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
 
 #
 ![](https://www.codewars.com/users/samspi-tech/badges/small)
